@@ -1,16 +1,18 @@
-## Hi there 👋
+# Halo semua! 
 
-<!--
-**alfonsobuque800/alfonsobuque800** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Perkenalkan nama saya **Muhammad Teguh Alfian**.<br>
 
-Here are some ideas to get you started:
+Saya merupakan lulusan Teknik Informatika, Universitas Muria Kudus.<br>
+Saya memiliki minat tinggi terhadap Data Analytics dan Machine Learning.<br>
+Profil lengkap saya ada di sini [LinkedIn](https://www.linkedin.com/in/muhammad-teguh-alfian-05699a2a9/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Terima kasih sudah berkunjung. 
+Salam bahagia untuk semua :D
+
+### Github Statistic
+<p align="left">
+<a href="https://github.com/penuliscode">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=penuliscode&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=penuliscode&layout=compact&layout=compact&theme=algolia"/>
+</a>
+</p>
