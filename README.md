@@ -16,6 +16,6 @@ Salam bahagia untuk semua :D
 </a>
 </p>
 
-Kenali Lebih Jauh!
-[Instagram](https://www.instagram.com/teguh_alf/)
-[LinkedIn](https://www.linkedin.com/in/muhammad-teguh-alfian-05699a2a9/)
+Kenali Lebih Jauh!<br>
+[Instagram](https://www.instagram.com/teguh_alf/)<br>
+[LinkedIn](https://www.linkedin.com/in/muhammad-teguh-alfian-05699a2a9/)<br>
